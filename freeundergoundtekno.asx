@@ -1,0 +1,12 @@
+<asx version = "3.0">
+	<Title>Free Underground Tekno</Title>
+	<Author>http://www.freeundergroundtekno.org</Author>
+	<Copyright> </Copyright>
+	<PARAM name="HTMLView" value="http://www.freeundergroundtekno.org" />
+	<MoreInfo href="http://www.freeundergroundtekno.org" />
+	<entry>
+		<ref href="http://sv1.uk.mystreamserver.com:8010" />
+		<Title>Free Underground Tekno</Title> 
+		<Author>http://www.freeundergroundtekno.org</Author>
+	</entry>
+</asx>
