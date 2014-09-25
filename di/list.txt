@@ -1,0 +1,60 @@
+(01) http://pub7.di.fm/di_ambient                  Ambient - a blend of ambient, downtempo, and chillout
+(02) http://pub7.di.fm/di_bigroomhouse             Big Room House - The most uplifting, floor-filling Big Room House!
+(03) http://pub7.di.fm/di_breaks                   Breaks - a fine assortment of trance and house breaks
+(04) http://pub7.di.fm/di_chillhop                 ChillHop - Trip Hop infused, downtempo nujazz and chillout beats.
+(05) http://pub7.di.fm/di_chillout                 Chillout - ambient psy chillout, check out our trippy flavors!
+(06) http://pub7.di.fm/di_chilloutdreams           Chillout Dreams - relax to the sounds of dream and ibiza style chillout
+(07) http://pub7.di.fm/di_chiptunes                Chiptunes - Playing the best chiptunes and video game music.
+(08) http://pub7.di.fm/di_classiceurodance         Classic EuroDance - Finest imported cheese on the net!
+(09) http://pub7.di.fm/di_classiceurodisco         Classic EuroDisco - Relive the sounds of Euro &amp; Italo Disco.
+(10) http://pub7.di.fm/di_classictrance            Classic Trance - relive the classic trance hits!!
+(11) http://pub7.di.fm/di_classicvocaltrance       Classic Vocal Trance - Classic fusion of trance, dance, and chilling vocals together!
+(12) http://pub7.di.fm/di_clubdubstep              Club Dubstep - Enjoy the liquid sounds of Dubstep
+(13) http://pub7.di.fm/di_clubsounds               Club Sounds - the hottest club and dance tunes 24/7
+(14) http://pub7.di.fm/di_cosmicdowntempo          Cosmic Downtempo - A downtempo journey into the cosmos
+(15) http://pub7.di.fm/di_darkdnb                  Dark DnB - A twisted blend of heavy hitting Dark Drum and Bass!
+(16) http://pub7.di.fm/di_deephouse                Deep House - Only the sexiest, silky smooth and groovy Deep House.
+(17) http://pub7.di.fm/di_deepnudisco              Deep Nu-Disco - The new sounds of Deep Disco!
+(18) http://pub7.di.fm/di_deeptech                 Deep Tech - Deeper shades of House and Techno with Dub and Blues influences.
+(19) http://pub7.di.fm/di_discohouse               Disco House  - Grooviest Disco House hits on the planet!
+(20) http://pub7.di.fm/di_djmixes                  DJ MIXES - non-stop DJ sets featuring various forms of techno &amp; trance!
+(21) http://pub7.di.fm/di_downtempolounge          Downtempo Lounge - Relax with some Downtempo grooves.
+(22) http://pub7.di.fm/di_drumandbass              Drum and Bass - tasty assortment to satisfy your drum and bass fix!
+(23) http://pub7.di.fm/di_dubstep                  Dubstep - Dubstep hits and mixes!!!!
+(24) http://pub7.di.fm/di_eclectronica             EcLectronica - An eclectic mixture of modern electronica.
+(25) http://pub7.di.fm/di_electrohouse             Electro House - an eclectic mix of electro and dirty house
+(26) http://pub7.di.fm/di_epictrance               Epic Trance - Epic &amp; uplifting trance hits
+(27) http://pub7.di.fm/di_eurodance                EuroDance - the newest and best of Eurodance hits
+(28) http://pub7.di.fm/di_funkyhouse               Funky House - A fine selection of funky house music!!
+(29) http://pub7.di.fm/di_futuresynthpop           Future Synthpop - Finest selection of futurepop and synthpop!!
+(30) http://pub7.di.fm/di_glitchhop                Glitch Hop - Bit-crushing, dub-infused Hip Hop sounds!
+(31) http://pub7.di.fm/di_goapsy                   Goa &amp; Psychedelic Trance - a voyage out of this world!
+(32) http://pub7.di.fm/di_handsup                  Hands Up  - Dance to the best Hands Up hits!!
+(33) http://pub7.di.fm/di_hardcore                 Hardcore - DJ mixes, hard dance and NuNRG!
+(34) http://pub7.di.fm/di_harddance                Hard Dance - are you ready for this!
+(35) http://pub7.di.fm/di_hardstyle                Hardstyle - Banging Hardstyle for your ears!!!
+(36) http://pub7.di.fm/di_house                    House - silky sexy deep house music direct from New York city!
+(37) http://pub7.di.fm/di_latinhouse               Latin House - Finest selection of Latin house!!
+(38) http://pub7.di.fm/di_liquiddnb                Liquid DnB  - Flowing with the freshest Liquid DnB!!
+(39) http://pub7.di.fm/di_liquiddubstep            Liquid Dubstep - Mellow out to the rolling, soothing deep bass of Liquid Dubstep.
+(40) http://pub7.di.fm/di_lounge                   Lounge - sit back and enjoy the lounge grooves!
+(41) http://pub7.di.fm/di_mainstage                Mainstage - The biggest DJs from the best festivals around the world!
+(42) http://pub7.di.fm/di_minimal                  Minimal - Finest selection of Minimal Techno &amp; House!!
+(43) http://pub7.di.fm/di_oldschoolacid            Oldschool Acid - Oldschool sounds of Acid Techno, House, and Trance!
+(44) http://pub7.di.fm/di_oldschoolelectronica     Classic Electronica - old school techno, trance &amp; rave!
+(45) http://pub7.di.fm/di_progressive              Progressive - house, techno, and trance beats for your mind!
+(46) http://pub7.di.fm/di_progressivepsy           Progressive Psy - progressive psychedelic grooves
+(47) http://pub7.di.fm/di_psychill                 PsyChill - downtempo psychedelic dub grooves, goa ambient, and world beats.
+(48) http://pub7.di.fm/di_russianclubhits          Russian Club Hits - Russia's hottest club hits.
+(49) http://pub7.di.fm/di_sankeys                  Sankeys Radio - The sound of the white isle direct from Sankeys Ibiza.
+(50) http://pub7.di.fm/di_soulfulhouse             Soulful House - house music selected from Paris with love!
+(51) http://pub7.di.fm/di_spacemusic               Space Dreams - ambient space music for expanding minds
+(52) http://pub7.di.fm/di_techhouse                Tech House - A fusion of techno and house with a deep, soulful vibe.
+(53) http://pub7.di.fm/di_techno                   Techno - From Minimal to Detroit to Schranz &amp; all in between!
+(54) http://pub7.di.fm/di_trance                   Trance Channel - we can't define it!
+(55) http://pub7.di.fm/di_trap                     Trap - Electronic 808 beats with Hip Hop roots.
+(56) http://pub7.di.fm/di_tribalhouse              Tribal House - Finest selection of tribal and tech house!!
+(57) http://pub7.di.fm/di_ukgarage                 UK Garage - The latest and greatest in UK Garage!!
+(58) http://pub7.di.fm/di_umfradio                 UMF Radio - UMF Radio
+(59) http://pub7.di.fm/di_vocalchillout            Vocal Chillout - Enjoy the relaxing vocal sounds of ibiza chillout
+(60) http://pub7.di.fm/di_vocaltrance              Vocal Trance - a fusion of trance, dance, and chilling vocals together!
