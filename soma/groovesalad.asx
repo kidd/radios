@@ -1,0 +1,14 @@
+<ASX version="3.0">
+<repeat>
+
+	<entry>
+		<ref href="http://ice1.somafm.com/groovesalad-128-mp3" />
+		<PARAM name="HTMLView" value="http://somafm.com/wma128/?groovesalad"/>
+		<Abstract>Loading: Groove Salad from SomaFM.com</abstract>
+		<Title>SomaFM: Groove Salad</Title>
+		<Author>Keep us on the air! Click Support SomaFM above!</Author>
+	</entry>
+
+
+</repeat>
+</ASX>
