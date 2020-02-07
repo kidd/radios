@@ -14,6 +14,11 @@ Fancy:
 
 `ls **/* | dmenu | xargs mplayer -playlist`
 
+Update songs
+============
+
+Update soma.fm songs via https://github.com/kidd/radios/pull/3 or
+https://somafm.com/channels.json
 
 Emacs:
 
@@ -42,4 +47,35 @@ Emacs:
   (interactive)
   (ignore-errors
     (kill-buffer "*mplayer*")))
+
+
+(defun kill-current-song ()
+  "save current song in file ~/org/music.org."
+  ;; lines look like:
+  ;; ICY Info: StreamTitle='radiOzora - We are all connected';
+  (interactive)
+  (save-excursion
+    (with-current-buffer "*mplayer*"
+     (end-of-buffer)
+     (search-backward "ICY Info: StreamTitle='")
+     (search-forward "StreamTitle='")
+     (set-mark (point))
+     (end-of-line)
+     (search-backward "'")
+     ;; (backward-char)
+     (kill-region (mark) (point))
+     (yank))
+   (with-current-buffer (find-file-noselect "~/org/music.org")
+     (end-of-buffer)
+     (insert "\n* ")
+     (yank)
+     (insert (format "\n\n  [%s]" (format-time-string "%Y-%m-%d"))))))
+
+(fset 'hit 'kill-current-song)
 ```
+
+See also
+========
+
+If you want a fancier interface for emacs but only with soma.fm
+support, check this out: https://github.com/artenator/somafm.el
