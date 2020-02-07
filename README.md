@@ -17,7 +17,7 @@ Fancy:
 Update songs
 ============
 
-Update soma.fm songs via https://github.com/kidd/radios/pull/3 or
+Update soma.fm urls via https://github.com/kidd/radios/pull/3 or
 https://somafm.com/channels.json
 
 Emacs:
