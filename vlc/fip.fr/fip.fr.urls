@@ -1,0 +1,9 @@
+echo https://askubuntu.com/questions/193737/how-to-listen-radio-from-terminal
+echo "https://icecast.radiofrance.fr/fiprock-midfi.mp3?id=radiofrance" >fiprock.m3u
+echo "https://icecast.radiofrance.fr/fipjazz-midfi.mp3?id=radiofrance" >fipjazz.m3u
+echo "https://icecast.radiofrance.fr/fipgroove-midfi.mp3?id=radiofrance" >fipgroove.m3u
+echo "https://icecast.radiofrance.fr/fippop-midfi.mp3?id=radiofrance" >fippop.m3u
+echo "https://icecast.radiofrance.fr/fipelectro-midfi.mp3?id=radiofrance" >fipelectro.m3u
+echo "https://icecast.radiofrance.fr/fipworld-midfi.mp3?id=radiofrance" >fipworld.m3u
+echo "https://icecast.radiofrance.fr/fipreggae-midfi.mp3?id=radiofrance" >fipreggae.m3u
+echo "https://icecast.radiofrance.fr/fipnouveautes-midfi.mp3?id=radiofrance" > fipnouveautes.m3u
