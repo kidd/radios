@@ -24,14 +24,16 @@ Emacs:
 
 ```lisp
 
+(defvar radio-list nil)
 (defun radio ()
   (interactive)
-  (let ((filename (ido-completing-read
-                    "which radio?: "
-                    (find-lisp-find-files "~/bin/radios/"
-                                          (rx "." (or "pls" "asx" "m3u" "m4a") eol))
-                                          nil
-                                          t))
+  (let ((filename
+         (ido-completing-read
+          "which radio?: "
+				  (find-lisp-find-files "~/bin/radios/"
+                                (rx "." (or "pls" "asx" "m3u" "m4a") eol))
+          nil
+          t nil 'radio-list (first radio-list)))
         (async-shell-command-buffer 'confirm-kill-process)
         (display-buffer-alist '(("*mplayer*" . (display-buffer-no-window)))))
 
@@ -39,8 +41,11 @@ Emacs:
         (async-shell-command (concat "cvlc " filename) "*mplayer*")
       (async-shell-command (concat "mplayer -playlist " filename) "*mplayer*"))
     (with-current-buffer "*mplayer*"
-      (setq show-trailing-whitespace nil))
+      (setq show-trailing-whitespace nil)
+      (setq-local undo-outer-limit 100))
     (message "choosen: %s" filename)))
+
+(setq warning-suppress-types (list '(undo discard-info)))
 
 
 (defun kill-radio ()
