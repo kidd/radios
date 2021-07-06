@@ -84,3 +84,16 @@ See also
 
 If you want a fancier interface for emacs but only with soma.fm
 support, check this out: https://github.com/artenator/somafm.el
+
+Check this out: https://github.com/altdesktop/playerctl , This allows you to
+manipulate your player from the commmand line, no matter if you're playing
+youtube,spotify,...  Looks super!
+
+Want more?
+==========
+
+https://news.ycombinator.com/item?id=27737887 Has lots of links you can go
+explore, like:
+https://open.spotify.com/user/mynameislinea/playlist/5Fq64a52kow0iivojKlad0?si=UMt5KU9LTk-myJ6Bj-GeWQ&dl_branch=1,
+which is a 800h playlist with ambient music.
+
